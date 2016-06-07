@@ -1,0 +1,20 @@
+#FirstScene{
+	 -fx-background-image: url("PreGame.jpg");
+	 -fx-background-size: cover;
+}
+
+#SecondScene{
+	 -fx-background-image: url("PreGame.jpg");
+	 -fx-background-size: cover;
+}
+
+#ThirdScene{
+	 -fx-background-image: url("Surface.jpg");
+	 -fx-background-size: cover;
+}
+
+#FourthScene{
+	 -fx-background-image: url("PlayerStats.png");
+	 -fx-background-size: cover;
+}
+
